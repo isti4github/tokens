@@ -23,3 +23,6 @@ contract MyNFT721 is ERC721URIStorage {
         return newid;
     }
 }
+
+
+//https://www.youtube.com/watch?v=xxjzjHlFB-E&t=298s
